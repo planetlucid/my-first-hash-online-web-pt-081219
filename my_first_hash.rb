@@ -1,5 +1,5 @@
 def create_hash
- this_hash{"name" => "Dwayne, The Rock, Johnson", "weight" => "a lot"}
+ this_hash = {"name" => "Dwayne, The Rock, Johnson", "weight" => "a lot"}
 end
 
 
