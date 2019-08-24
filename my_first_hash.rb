@@ -1,9 +1,5 @@
 def create_hash
- 
  this_hash{"name" => "Dwayne, The Rock, Johnson", "weight" => "a lot"}
- # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
 end
 
 
