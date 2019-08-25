@@ -1,5 +1,5 @@
-def create_hash
- this_hash = {"weight" => "a lot"}
+def my_hash
+ your_hash = {"weight" => "a lot"}
 end
 
 
